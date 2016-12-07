@@ -1,0 +1,26 @@
+{
+  "name": "map-reducer",
+  "version": "0.0.1",
+  "description": "Maps Redux reducer into #map-able state",
+  "main": "mapReducer.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/taciknowledge/map-reducer.git"
+  },
+  "keywords": [
+    "redux",
+    "utility"
+  ],
+  "author": "Shun MIZUKAMI",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/taciknowledge/map-reducer/issues"
+  },
+  "homepage": "https://github.com/taciknowledge/map-reducer#readme",
+  "devDependencies": {
+    "assert": "^1.4.1"
+  }
+}
